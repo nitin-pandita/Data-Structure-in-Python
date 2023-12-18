@@ -16,5 +16,13 @@ l1.extend([20,54,21])
 l1.remove(20)
 
 #pop functionality
+
 l1.pop()
 print(l1)
+
+
+list1 = [42,34,45,45]
+
+list1.sort()
+
+print(list1)
